@@ -1,0 +1,66 @@
+.titulo{
+    background-color: orange;
+    text-align: center;
+}
+
+.enlaces{
+    background-color: aqua;
+    color: green;
+}
+
+.caja{
+    border: 3px solid orange;
+}
+
+.azul{
+    color: blue;
+    display: flex;
+}
+
+.arriba{
+    border: 10px solid blue;
+}
+
+.foto1{
+    width: 200px;
+    
+}
+
+.fotosj{
+    display: flex;
+}
+
+.abajo{
+    border: 10px solid red;
+}
+
+.rojo{
+    color: red;
+    display: flex;
+}
+
+.ordenador{
+    text-align: right;
+}
+
+.LMSGI{
+    border: 3px solid orange;
+    background-color: darkorange;
+    text-align: center;
+}
+
+.poso{
+    background-color: orange;
+}
+
+.fondo2{
+    background-color: deepskyblue;
+}
+
+h1{
+    color: white;
+}
+.orde{
+    width: 200px;
+}
+
